@@ -30,6 +30,7 @@ Readings:
 
 Readings:  
 * [nQUIC: Noise-Based QUIC Packet Protection](nquic.pdf)
+* [Ninn](https://github.com/rot256/ninn)
 
 ### TLS 1.3
 
