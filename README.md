@@ -29,7 +29,7 @@ Readings:
 ### nQUIC
 
 Readings:  
-*[nQUIC: Noise-Based QUIC Packet Protection](papers/nquic.pdf)
+* [nQUIC: Noise-Based QUIC Packet Protection](papers/nquic.pdf)
 
 ### TLS 1.3
 
