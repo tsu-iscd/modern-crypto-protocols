@@ -7,6 +7,12 @@ The course is lectured in [Tomsk State University](http://en.tsu.ru).
 
 ## Syllabus and Readings
 
+### Signal
+
+Readings:
+* [The Double Ratchet Algorithm](https://signal.org/docs/specifications/doubleratchet/)
+* [The X3DH Key Agreement Protocol](https://signal.org/docs/specifications/x3dh/)
+
 ### Noise Protocol Framework
 
 Readings:  
@@ -20,12 +26,6 @@ Readings:
 * [WireGuard: Next Generation Kernel Network Tunnel](https://www.wireguard.com/papers/wireguard.pdf)
 * [Formal Verification of the WireGuard Protocol](https://www.wireguard.com/papers/wireguard-formal-verification.pdf) 
 
-### Signal
-
-Readings:
-* [The Double Ratchet Algorithm](https://signal.org/docs/specifications/doubleratchet/)
-* [The X3DH Key Agreement Protocol](https://signal.org/docs/specifications/x3dh/)
-
 ### nQUIC
 
 Readings:  
@@ -38,3 +38,9 @@ Readings:
 * [RFC 8446](https://www.rfc-editor.org/rfc/pdfrfc/rfc8446.txt.pdf)
 * [A Readable Specification of TLS 1.3](https://www.davidwong.fr/tls13/)
 * [The Illustrated TLS Connection](https://tls13.ulfheim.net/)
+
+### Key Transparency
+
+Readings:
+* [Key Transparency Overview](https://github.com/google/keytransparency/blob/master/docs/overview.md)
+* [Key Transparency Design](https://github.com/google/keytransparency/blob/master/docs/design.md)
