@@ -26,6 +26,12 @@ Readings:
 * [WireGuard: Next Generation Kernel Network Tunnel](https://www.wireguard.com/papers/wireguard.pdf)
 * [Formal Verification of the WireGuard Protocol](https://www.wireguard.com/papers/wireguard-formal-verification.pdf) 
 
+### QUIC Crypto
+
+Readings:
+* [QUIC Crypto Design](https://docs.google.com/document/d/1g5nIXAIkN_Y-7XJW5K45IblHd_L2f5LTaDUDwvZ5L6g/edit?usp=drivesdk)
+* [QUIC Overview](https://docs.google.com/document/d/1gY9-YNDNAB1eip-RTPbqphgySwSNSDHLq9D5Bty4FSU)
+
 ### nQUIC
 
 Readings:  
