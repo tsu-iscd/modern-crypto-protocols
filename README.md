@@ -50,3 +50,9 @@ Readings:
 Readings:
 * [Key Transparency Overview](https://github.com/google/keytransparency/blob/master/docs/overview.md)
 * [Key Transparency Design](https://github.com/google/keytransparency/blob/master/docs/design.md)
+
+
+### Secure Messaging
+
+Readings:
+* [SoK: Secure Messaging](cacr2015-02.pdf)
