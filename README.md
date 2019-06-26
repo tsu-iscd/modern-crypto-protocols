@@ -7,6 +7,12 @@ The course is lectured in [Tomsk State University](http://en.tsu.ru).
 
 ## Syllabus and Readings
 
+### Padding Oracle Attacks
+
+Readings:
+* [Scalable Scanning and Automatic Classification of Padding Oracle Vulnerabilities](https://github.com/RUB-NDS/TLS-Padding-Oracles/blob/master/TlsPaddingOracleScanning.pdf)
+* [The 9 Lives of Bleichenbacher’s CAT: New Cache ATtacks on TLS Implementations](https://eprint.iacr.org/2018/1173.pdf)
+
 ### Signal
 
 Readings:
