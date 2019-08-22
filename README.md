@@ -44,6 +44,11 @@ Readings:
 * [nQUIC: Noise-Based QUIC Packet Protection](nquic.pdf)
 * [Ninn](https://github.com/rot256/ninn)
 
+### HPKE
+
+Readings:
+* [Hybrid Public Key Encryption](https://tools.ietf.org/html/draft-irtf-cfrg-hpke-00)
+
 ### TLS 1.3
 
 Readings:  
