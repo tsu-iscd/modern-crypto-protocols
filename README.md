@@ -67,3 +67,9 @@ Readings:
 
 Readings:
 * [SoK: Secure Messaging](cacr2015-02.pdf)
+
+### Hedged Cryptography
+
+Readings:
+* [Limiting the impact of unreliable randomness in deployed security protocols](https://eprint.iacr.org/2018/1057)
+* [Hedging Public-Key Encryption in the Real World](https://eprint.iacr.org/2017/510)
