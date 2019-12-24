@@ -2,22 +2,18 @@
 
 ## Course Overview
 
-This course focuses on modern secure cryptographic protocols.
+This course focuses on the modern cryptographic protocols developed for real systems.
 The course is lectured in [Tomsk State University](http://en.tsu.ru).
 
 ## Syllabus and Readings
 
-### Padding Oracle Attacks
-
-Readings:
-* [Scalable Scanning and Automatic Classification of Padding Oracle Vulnerabilities](https://github.com/RUB-NDS/TLS-Padding-Oracles/blob/master/TlsPaddingOracleScanning.pdf)
-* [The 9 Lives of Bleichenbacher’s CAT: New Cache ATtacks on TLS Implementations](https://eprint.iacr.org/2018/1173.pdf)
-
-### Signal
+### Signal Design
 
 Readings:
 * [The Double Ratchet Algorithm](https://signal.org/docs/specifications/doubleratchet/)
 * [The X3DH Key Agreement Protocol](https://signal.org/docs/specifications/x3dh/)
+* [Technology Preview for secure value recovery](https://signal.org/blog/secure-value-recovery/)
+* [Signal Private Group System](https://signal.org/blog/signal-private-group-system/)
 
 ### Noise Protocol Framework
 
@@ -37,10 +33,6 @@ Readings:
 Readings:
 * [QUIC Crypto Design](https://docs.google.com/document/d/1g5nIXAIkN_Y-7XJW5K45IblHd_L2f5LTaDUDwvZ5L6g/edit?usp=drivesdk)
 * [QUIC Overview](https://docs.google.com/document/d/1gY9-YNDNAB1eip-RTPbqphgySwSNSDHLq9D5Bty4FSU)
-
-### nQUIC
-
-Readings:  
 * [nQUIC: Noise-Based QUIC Packet Protection](nquic.pdf)
 * [Ninn](https://github.com/rot256/ninn)
 
@@ -61,7 +53,6 @@ Readings:
 Readings:
 * [Key Transparency Overview](https://github.com/google/keytransparency/blob/master/docs/overview.md)
 * [Key Transparency Design](https://github.com/google/keytransparency/blob/master/docs/design.md)
-
 
 ### Secure Messaging
 
