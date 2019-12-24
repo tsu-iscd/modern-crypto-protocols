@@ -7,6 +7,11 @@ The course is lectured in [Tomsk State University](http://en.tsu.ru).
 
 ## Syllabus and Readings
 
+### Oblivious KMS
+
+Readings:
+* [Updatable Oblivious Key Management for Storage Systems](https://eprint.iacr.org/2019/1275.pdf)
+
 ### Signal Design
 
 Readings:
