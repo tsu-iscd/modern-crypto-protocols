@@ -20,6 +20,7 @@ Readings:
 * [Technology Preview for secure value recovery](https://signal.org/blog/secure-value-recovery/)
 * [Signal Private Group System](https://signal.org/blog/signal-private-group-system/)
 * [Matthew Green comments on Signal proposal for backing up secrets](https://twitter.com/matthew_d_green/status/1207753119729430529?s=09)
+* ["Technology Preview for secure value recovery" discusions on YCombinator](https://news.ycombinator.com/item?id=21838413)
 
 ### Noise Protocol Framework
 
