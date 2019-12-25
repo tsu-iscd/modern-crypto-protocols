@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course focuses on the modern cryptographic protocols developed for real systems.
+This course focuses on the modern protocols for cryptography engineering of real systems.
 The course is lectured in [Tomsk State University](http://en.tsu.ru).
 
 ## Syllabus and Readings
@@ -19,6 +19,7 @@ Readings:
 * [The X3DH Key Agreement Protocol](https://signal.org/docs/specifications/x3dh/)
 * [Technology Preview for secure value recovery](https://signal.org/blog/secure-value-recovery/)
 * [Signal Private Group System](https://signal.org/blog/signal-private-group-system/)
+* [Matthew Green comments on Signal proposal for backing up secrets](https://twitter.com/matthew_d_green/status/1207753119729430529?s=09)
 
 ### Noise Protocol Framework
 
