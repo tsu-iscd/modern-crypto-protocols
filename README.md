@@ -1,7 +1,7 @@
 # Modern Cryptography Protocols
 
 ## Course Overview
-This course focuses on the modern cryptography mechanisms and protocols engineering of real systems.
+This course focuses on the modern cryptography mechanisms and protocols for engineering of real systems.
 The course is lectured in [Tomsk State University](http://en.tsu.ru).
 
 ## How to Read a Paper
