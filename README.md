@@ -1,13 +1,15 @@
-# Modern Cryptographic Protocols
+# Modern Cryptography Protocols
 
 ## Course Overview
-
-This course focuses on the modern protocols for cryptography engineering of real systems.
+This course focuses on the modern cryptography mechanisms and protocols engineering of real systems.
 The course is lectured in [Tomsk State University](http://en.tsu.ru).
+
+## How to Read a Paper
+* [S. Keshav. How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
 ## Syllabus and Readings
 
-### Oblivious KMS
+### KMS and Oblivious KMS
 
 Readings:
 * [Updatable Oblivious Key Management for Storage Systems](https://eprint.iacr.org/2019/1275.pdf)
