@@ -24,6 +24,12 @@ Readings:
 * [Matthew Green comments on Signal proposal for backing up secrets](https://twitter.com/matthew_d_green/status/1207753119729430529?s=09)
 * ["Technology Preview for secure value recovery" discusions on YCombinator](https://news.ycombinator.com/item?id=21838413)
 
+### iCloud Keychain
+
+Readings:
+* [Ivan Krstić. Behind the Scenes with iOS Security](https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf)
+* [Matthew Green. Is Apple’s Cloud Key Vault a crypto backdoor?](https://blog.cryptographyengineering.com/2016/08/13/is-apples-cloud-key-vault-crypto/)
+
 ### Noise Protocol Framework
 
 Readings:  
