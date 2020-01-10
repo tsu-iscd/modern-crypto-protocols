@@ -79,3 +79,9 @@ Readings:
 Readings:
 * [Limiting the impact of unreliable randomness in deployed security protocols](https://eprint.iacr.org/2018/1057)
 * [Hedging Public-Key Encryption in the Real World](https://eprint.iacr.org/2017/510)
+
+### PGP
+
+Readings:
+* [Matthew Green. What’s the matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/)
+* [A history of end-to-end encryption and the death of PGP](https://www.cryptologie.net/article/487/a-history-of-end-to-end-encryption-and-the-death-of-pgp/)
