@@ -24,6 +24,7 @@ Readings:
 * [Matthew Green comments on Signal proposal for backing up secrets](https://twitter.com/matthew_d_green/status/1207753119729430529?s=09)
 * ["Technology Preview for secure value recovery" discusions on YCombinator](https://news.ycombinator.com/item?id=21838413)
 * [Facebook Messenger Secret Conversations](https://fbnewsroomus.files.wordpress.com/2016/07/messenger-secret-conversations-technical-whitepaper.pdf)
+* [WhatsApp Encryption Overview](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)
 
 ### iCloud Keychain
 
