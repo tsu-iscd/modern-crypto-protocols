@@ -25,6 +25,7 @@ Readings:
 * ["Technology Preview for secure value recovery" discusions on YCombinator](https://news.ycombinator.com/item?id=21838413)
 * [Facebook Messenger Secret Conversations](https://fbnewsroomus.files.wordpress.com/2016/07/messenger-secret-conversations-technical-whitepaper.pdf)
 * [WhatsApp Encryption Overview](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)
+* [Post-Compromise Security](https://eprint.iacr.org/2016/221)
 
 ### iCloud Keychain
 
