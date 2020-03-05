@@ -88,3 +88,11 @@ Readings:
 Readings:
 * [Matthew Green. What’s the matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/)
 * [A history of end-to-end encryption and the death of PGP](https://www.cryptologie.net/article/487/a-history-of-end-to-end-encryption-and-the-death-of-pgp/)
+
+### Zero-Knowledge Protocols
+
+Readings:
+* [Matthew Green. Zero Knowledge Proofs: An illustrated primer. Part 1](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
+* [Matthew Green. Zero Knowledge Proofs: An illustrated primer. Part 2](https://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/)
+* [Boaz Barak. An Intensve Introduction to Cryptography. Lection 14](https://intensecrypto.org/public/lec_14_zero_knowledge.html)
+* [Stanford CS 355. Lecture 3. Interactive Proofs and Zero-Knowledge](https://crypto.stanford.edu/cs355/18sp/lec3.pdf)
