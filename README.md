@@ -44,7 +44,9 @@ Readings:
 
 Readings:  
 * [WireGuard: Next Generation Kernel Network Tunnel](https://www.wireguard.com/papers/wireguard.pdf)
-* [Formal Verification of the WireGuard Protocol](https://www.wireguard.com/papers/wireguard-formal-verification.pdf) 
+* [Formal Verification of the WireGuard Protocol](https://www.wireguard.com/papers/wireguard-formal-verification.pdf)
+* [A Mechanised Cryptographic Proof of the WireGuard
+Virtual Private Network Protocol](https://hal.inria.fr/hal-02100345v2/document)
 
 ### QUIC Crypto
 
