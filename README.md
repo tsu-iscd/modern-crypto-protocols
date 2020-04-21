@@ -49,6 +49,11 @@ Readings:
 Virtual Private Network Protocol](https://hal.inria.fr/hal-02100345v2/document)
 * [A Cryptographic Analysis of the WireGuard Protocol](https://eprint.iacr.org/2018/080.pdf)
 
+### Deniability
+
+Readings:
+* [Improved Strongly Deniable Authenticated Key Exchanges for Secure Messaging](https://petsymposium.org/2018/files/papers/issue1/paper12-2018-1-source.pdf)
+
 ### QUIC Crypto
 
 Readings:
