@@ -31,7 +31,7 @@ The cryptographic parameters should be the same on both sides and should be the 
 Both client and server must send a Finished message which contains a MAC over all previous handshake messages, so that both client and server ensure that the negotiated parameters have not been modified in the middle by an attacker.
 
 2. Downgrade prevention mechanism.
-```
+   ```
    TLS 1.3 has a downgrade protection mechanism embedded in the server's
    random value.  TLS 1.3 servers which negotiate TLS 1.2 or below in
    response to a ClientHello MUST set the last 8 bytes of their Random
@@ -61,7 +61,7 @@ Both client and server must send a Finished message which contains a MAC over al
    random values without detection as long as ephemeral ciphers are
    used.  It does not provide downgrade protection when static RSA
    is used.
-```
+   ```
 
 ### Mechanisms
 - [Key Schedule](https://www.davidwong.fr/tls13/#section-7.1)
