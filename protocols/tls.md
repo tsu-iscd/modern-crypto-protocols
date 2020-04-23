@@ -69,3 +69,4 @@ Both client and server must send a Finished message which contains a MAC over al
 - [OPTLS and TLS 1.3](https://rwc.iacr.org/2016/Slides/rwc16-wee.pdf)
 - [Finished Message](https://www.davidwong.fr/tls13/#section-4.4.4)
 - [Transcript Hash](https://www.davidwong.fr/tls13/#section-4.4.1)
+- [Record padding](https://tools.ietf.org/html/rfc8446#section-5.4)
