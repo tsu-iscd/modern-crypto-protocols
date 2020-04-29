@@ -7,4 +7,4 @@
 * [Noise Wiki](https://github.com/noiseprotocol/noise_wiki/wiki)
 
 ## Links
-* [libreswan: IPsec Implemented Standards](https://libreswan.org/wiki/RFC_List
+* [libreswan: IPsec Implemented Standards](https://libreswan.org/wiki/RFC_List)
