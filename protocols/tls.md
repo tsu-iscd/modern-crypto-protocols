@@ -2,7 +2,10 @@
 
 ## TLS 1.2
 
-### Connections
+###  Mechanics
+- (TLS Cipher Cuite Registry](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml#tls-parameters-4)
+
+### Behaviour
 - [Illustrated connection](https://tls.ulfheim.net/)
 - [TLS 1.2](https://www.cloudshark.org/captures/26fa735868c1)
 
@@ -11,7 +14,7 @@
 
 ## TLS 1.3
 
-### Connections
+### Behaviour
 - [Illustrated connection](https://tls13.ulfheim.net/)
 - [0-RTT](https://www.cloudshark.org/captures/64d433b1585a)
 
