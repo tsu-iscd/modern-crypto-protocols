@@ -72,6 +72,7 @@ Readings:
 Slides:
 * [Eric Rescorla. TLS 1.3](http://web.stanford.edu/class/ee380/Abstracts/151118-slides.pdf)
 * [Alex Balducci. Whats New in TLS 1.3?](https://appseccalifornia2018.sched.com/event/CuRy/whats-new-in-tls-13)
+* [Kai Gellert. Efficient Forward Security for TLS 1.3 0-RTT](https://www.youtube.com/watch?v=Xo6kO3u0D8I&feature=youtu.be)
 
 Readings:
 
