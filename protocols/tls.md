@@ -3,7 +3,7 @@
 ## TLS 1.2
 
 ###  Mechanics
--[TLS Cipher Cuite Registry](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml#tls-parameters-4)
+- [TLS Cipher Cuite Registry](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml#tls-parameters-4)
 
 ### Behaviour
 - [Illustrated connection](https://tls.ulfheim.net/)
