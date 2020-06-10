@@ -79,6 +79,7 @@ Readings:
 * [RFC 8446](https://www.rfc-editor.org/rfc/pdfrfc/rfc8446.txt.pdf)
 * [A Readable Specification of TLS 1.3](https://www.davidwong.fr/tls13/)
 * [The Illustrated TLS Connection](https://tls13.ulfheim.net/)
+* [TLS 1.3 for engineers: An exploration of the TLS 1.3 specification and Oracle’s Java implementation](https://bensmyth.com/files/Smyth19-TLS-tutorial.pdf)
 
 ### Key Transparency
 
