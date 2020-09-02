@@ -1,0 +1,11 @@
+# Introduction
+- Course objectives
+- Pre-requisites
+- Resources
+- Readings
+- Grading
+- Assignments
+- Course project
+  - conducted by groups of 1-3 students
+  - the topic should be approved
+  - detailed presentation (5 minutes)
