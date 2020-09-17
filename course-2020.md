@@ -15,3 +15,9 @@ Reading:
 
 Reading:
 * [SafeCurves: choosing safe curves for elliptic-curve cryptography](https://safecurves.cr.yp.to/twist.html)
+
+Assignments:
+* [Implement Diffie-Hellman](https://cryptopals.com/sets/5/challenges/33)
+* [Implement a MITM key-fixing attack on Diffie-Hellman with parameter injection](https://cryptopals.com/sets/5/challenges/34)
+* [Implement DH with negotiated groups, and break with malicious "g" parameters](https://cryptopals.com/sets/5/challenges/35)
+* [Implement Subgroup-Confinement Attack](https://toadstyle.org/cryptopals/57.txt)
