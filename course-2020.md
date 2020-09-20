@@ -11,10 +11,11 @@ Readings:
 * [RFC 2631. Diffie-Hellman Key Agreement Method](https://tools.ietf.org/html/rfc2631)
 * [RFC 3526. More Modular Exponential (MODP) Diffie-Hellman groups for Internet Key Exchange (IKE)](https://tools.ietf.org/html/rfc3526)
 
-## 9/17/2020: Basic Attacks against Diffie-Hellman Protocols
+## 9/17/2020: Basic Attacks on Diffie-Hellman Protocols
 
 Readings:
-* [SafeCurves: choosing safe curves for elliptic-curve cryptography](https://safecurves.cr.yp.to/twist.html)
+* [Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice](https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf)
+* [In search of CurveSwap: Measuring elliptic curve implementations in the wild](https://i.blackhat.com/eu-18/Thu-Dec-6/eu-18-Valenta-In-Search-Of-CurveSwap-Measuring-Elliptic-Curve-Implementations-In-The-Wild-wp.pdf)
 
 Assignments:
 * [Implement Diffie-Hellman](https://cryptopals.com/sets/5/challenges/33)
@@ -32,8 +33,17 @@ Readings:
 ## Introduction to Elliptic Curve Cryptography
 
 Readings:
-
 * [Boneh-Shoup. Chapter Chapter 15](https://toc.cryptobook.us/book.pdf)
+
+## Attacks on Elliptic Curves Cryptography 
+
+Readings:
+* [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](http://www.cs.technion.ac.il/~biham/BT/bt-fixed-coordinate-invalid-curve-attack.pdf)
+* [SafeCurves: choosing safe curves for elliptic-curve cryptography](https://safecurves.cr.yp.to/twist.html)
+
+Assignments:
+* [Elliptic Curve Diffie-Hellman and Invalid-Curve Attacks](https://toadstyle.org/cryptopals/59.txt)
+* [Single-Coordinate Ladders and Insecure Twists](https://toadstyle.org/cryptopals/60.txt)
 
 ## Identification Protocols
 
