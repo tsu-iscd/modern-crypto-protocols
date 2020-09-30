@@ -53,6 +53,11 @@ Assignments:
 
 ## Someday
 
+## KEM, PQ-KEM
+
+Readings:
+* [Strongly Secure Authenticated Key Exchange from Factoring, Codes, and Lattices](https://eprint.iacr.org/2012/211.pdf)
+
 ## WireGuard and PQ-WireGuard
 
 Readings:
