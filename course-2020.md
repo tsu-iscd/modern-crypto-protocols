@@ -29,19 +29,30 @@ Readings:
 * [Boneh-Shoup. Chapter 21](https://toc.cryptobook.us/book.pdf)
 * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf)
 
-## 10/1/2020: Introduction to Elliptic Curve Cryptography
+## 10/1/2020: Authenticated Key Exchnage
 
 Readings:
-* [Boneh-Shoup. (Chapter 15, sections 15.1 - 15.3)](https://toc.cryptobook.us/book.pdf)
+* [Boneh-Shoup. Chapter 21](https://toc.cryptobook.us/book.pdf)
 
+Assignments:
+* [Implement Pollard's Method for Catching Kangaroos](https://toadstyle.org/cryptopals/58.txt)
 
 ## 10/8/2020: Authenticated Key Exchnage
 
 Readings:
 * [Boneh-Shoup. Chapter 21](https://toc.cryptobook.us/book.pdf)
+
+## 10/15/2020: Introduction to Elliptic Curve Cryptography
+
+Readings:
+* [Boneh-Shoup. (Chapter 15, sections 15.1 - 15.3)](https://toc.cryptobook.us/book.pdf)
+
+## 10/22/2020: HMQV: A High-Performance Secure Diffie-Hellman Protocol
+
+Readings:
 * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf)
 
-## 10/15/2020: Attacks on Elliptic Curves Cryptography 
+## 10/29/2020: Attacks on Elliptic Curves Cryptography 
 
 Readings:
 * [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](http://www.cs.technion.ac.il/~biham/BT/bt-fixed-coordinate-invalid-curve-attack.pdf)
