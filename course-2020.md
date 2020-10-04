@@ -93,6 +93,11 @@ Readings:
 * [A Pragmatic Introduction to Secure Multi-Party Computation](https://www.cs.virginia.edu/~evans/pragmaticmpc/pragmaticmpc.pdf)
 * [Anca Nitulescu. Introductioon to MPC](https://www.di.ens.fr/~nitulesc/files/slides/MPC-intro.pdf)
 
+### The Double-Ratchet Algorithm
+
+Video:
+* [The double-ratchet algorithm: its security and privacy](https://www.youtube.com/watch?v=PSMqfPCM6_4&feature=emb_logo)
+
 ### Introduction to zk-SNARK
 
 Readings:
