@@ -47,12 +47,7 @@ Readings:
 Readings:
 * [Boneh-Shoup. (Chapter 15, sections 15.1 - 15.3)](https://toc.cryptobook.us/book.pdf)
 
-## 10/22/2020: HMQV: A High-Performance Secure Diffie-Hellman Protocol
-
-Readings:
-* [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf)
-
-## 10/29/2020: Attacks on Elliptic Curves Cryptography 
+## 10/22/2020: Attacks on Elliptic Curve Cryptography 
 
 Readings:
 * [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](http://www.cs.technion.ac.il/~biham/BT/bt-fixed-coordinate-invalid-curve-attack.pdf)
@@ -61,6 +56,11 @@ Readings:
 Assignments:
 * [Elliptic Curve Diffie-Hellman and Invalid-Curve Attacks](https://toadstyle.org/cryptopals/59.txt)
 * [Single-Coordinate Ladders and Insecure Twists](https://toadstyle.org/cryptopals/60.txt)
+
+## 10/29/2020: HMQV: A High-Performance Secure Diffie-Hellman Protocol
+
+Readings:
+* [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf)
 
 ## Someday
 
