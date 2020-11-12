@@ -62,6 +62,12 @@ Assignments:
 Readings:
 * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf)
 
+## 11/19/2020: X3DH and Noise
+
+Readings:
+* [The X3DH Key Agreement Protocol](https://signal.org/docs/specifications/x3dh/)
+* [Noise Protocol Framework](http://www.noiseprotocol.org/)
+
 ## Someday
 
 ## KEM, PQ-KEM
