@@ -12,3 +12,4 @@
 4. What is difference between I and X?
 5. Describe Noise Pipes and the main goals of them.
 6. How authentication is implemented in Noise?
+7. Find the definitions of explicit and implicit authentication and comprehence them. What type of authentication (explicit or impliciit) does Noise provide?
