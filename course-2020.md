@@ -72,6 +72,9 @@ Readings:
 Readings:
 * [The Double Ratchet Algorithm](https://signal.org/docs/specifications/doubleratchet/)
 
+Video:
+* [The double-ratchet algorithm: its security and privacy](https://www.youtube.com/watch?v=PSMqfPCM6_4&feature=emb_logo)
+
 ## 12/3/2020: Threshold Diffie-Hellman
 TBD
 
@@ -85,6 +88,11 @@ Readings:
 Readings:
 * [Noise Protocol Framework](http://www.noiseprotocol.org/). Sections 7-8, 10-11, 18.
 
+## 12/24/2020: WireGuard
+
+Readings:
+* [WireGuard: Next Generation Kernel Network Tunnel](https://www.wireguard.com/papers/wireguard.pdf)
+
 ## Someday
 
 ## KEM, PQ-KEM
@@ -92,10 +100,9 @@ Readings:
 Readings:
 * [Strongly Secure Authenticated Key Exchange from Factoring, Codes, and Lattices](https://eprint.iacr.org/2012/211.pdf)
 
-## WireGuard and PQ-WireGuard
+## PQ-WireGuard
 
 Readings:
-* [WireGuard: Next Generation Kernel Network Tunnel](https://www.wireguard.com/papers/wireguard.pdf)
 * [Post-quantum WireGuard](https://eprint.iacr.org/2020/379.pdf)
 
 ## Identification Protocols
@@ -115,11 +122,6 @@ Readings:
 Readings:
 * [A Pragmatic Introduction to Secure Multi-Party Computation](https://www.cs.virginia.edu/~evans/pragmaticmpc/pragmaticmpc.pdf)
 * [Anca Nitulescu. Introductioon to MPC](https://www.di.ens.fr/~nitulesc/files/slides/MPC-intro.pdf)
-
-### The Double-Ratchet Algorithm
-
-Video:
-* [The double-ratchet algorithm: its security and privacy](https://www.youtube.com/watch?v=PSMqfPCM6_4&feature=emb_logo)
 
 ### Introduction to zk-SNARK
 
