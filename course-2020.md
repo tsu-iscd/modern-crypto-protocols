@@ -72,16 +72,18 @@ Readings:
 Readings:
 * [The Double Ratchet Algorithm](https://signal.org/docs/specifications/doubleratchet/)
 
-## 12/3/2020: Noise: Principles, Mechanics and Semantics
+## 12/3/2020: Threshold Diffie-Hellman
+TBD
+
+## 12/10/2020: Noise: Principles, Mechanics and Semantics
 
 Readings:
 * [Noise Protocol Framework](http://www.noiseprotocol.org/). Sections 1-6, 9, 13-14.
 
-## 12/10/2020: Noise: Advanced Features and Security Properties
+## 12/17/2020: Noise: Advanced Features and Security Properties
 
 Readings:
 * [Noise Protocol Framework](http://www.noiseprotocol.org/). Sections 7-8, 10-11, 18.
-
 
 ## Someday
 
