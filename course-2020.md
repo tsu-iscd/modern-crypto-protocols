@@ -62,11 +62,26 @@ Assignments:
 Readings:
 * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf)
 
-## 11/19/2020: X3DH and Noise
+## 11/19/2020: X3DH
 
 Readings:
 * [The X3DH Key Agreement Protocol](https://signal.org/docs/specifications/x3dh/)
-* [Noise Protocol Framework](http://www.noiseprotocol.org/)
+
+## 11/26/2020: Double Ratchet
+
+Readings:
+* [The Double Ratchet Algorithm](https://signal.org/docs/specifications/doubleratchet/)
+
+## 12/3/2020: Noise: Principles, Mechanics and Semantics
+
+Readings:
+* [Noise Protocol Framework](http://www.noiseprotocol.org/). Sections 1-6, 9, 13-14.
+
+## 12/10/2020: Noise: Advanced Features and Security Properties
+
+Readings:
+* [Noise Protocol Framework](http://www.noiseprotocol.org/). Sections 7-8, 10-11, 18.
+
 
 ## Someday
 
