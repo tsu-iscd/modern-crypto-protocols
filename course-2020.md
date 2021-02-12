@@ -1,4 +1,4 @@
-# Cryptographic Protocols 2020
+# Cryptographic Protocols 2020-2021
 
 ## 9/3/2020: Introduction
 
